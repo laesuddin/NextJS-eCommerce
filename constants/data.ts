@@ -23,3 +23,10 @@ export const categoriesData = [
   { title: "Washing Machines", href: "washing-machines" },
   { title: "Kitchen Appliances", href: "kitchen-appliances" },
 ];
+
+export const productType = [
+  { title: "Gadget", value: "gadget" },
+  { title: "Appliances", value: "appliances" },
+  { title: "Refrigerators", value: "refrigerators" },
+  { title: "Others", value: "others" },
+];
